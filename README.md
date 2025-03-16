@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Puneet!<br>🚀 Aspiring MERN Stack Developer | Machine Learning Enthusiast<br><br>Developing a Stock Trading platform<br>Exploring Machine Learning algorithms and techniques<br>Enhancing my skills in React, Express, and Solidity<br><br>🌱 Currently Learning<br>🧠 Problem-Solving & DSA<br>Solving problems on LeetCode & Coding Ninjas<br>Let’s build something awesome together! 🚀
+👋 Hey there! I'm Puneet!<br>🚀 Aspiring MERN Stack Developer | Machine Learning Enthusiast<br><br>Developing a Stock Trading platform<br>Exploring Machine Learning algorithms and techniques<br>Enhancing my skills in React, Express, and Solidity<br><br>🌱 Currently Learning<br>🧠 Problem-Solving & DSA<br>Solving problems on LeetCode & Coding Ninjas
 
 
 ## 🌐 Socials:
